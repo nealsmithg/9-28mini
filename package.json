@@ -1,0 +1,23 @@
+{
+  "name": "14-ins_inquirer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealsmithg/9-28mini.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nealsmithg/9-28mini/issues"
+  },
+  "homepage": "https://github.com/nealsmithg/9-28mini#readme"
+}
